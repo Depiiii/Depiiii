@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=depiiii&show_icons=true&locale=en" alt="depiiii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depiiii&" alt="depiiii" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=depiiii" alt="depiiii" /></a> </p>
+
